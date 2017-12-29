@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0C508AE3-1BCC-414A-B4F5-DBB0FD894937}</ProjectGuid>
-    <RootNamespace>Week1</RootNamespace>
+    <ProjectGuid>{5F99A0B2-9CF0-4A6F-886B-2924078B834F}</ProjectGuid>
+    <RootNamespace>AdditionalChallenge2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Collatz conjecture</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
